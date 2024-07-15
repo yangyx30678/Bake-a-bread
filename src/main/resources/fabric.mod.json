@@ -3,7 +3,7 @@
 	"id": "bake-a-bread",
 	"version": "${version}",
 	"name": "Bake a bread",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "This is mod that allows you to bake a bread.",
 	"authors": [
 		"Me!"
 	],
@@ -17,6 +17,9 @@
 	"entrypoints": {
 		"main": [
 			"yangyx30678.bread.BakeABread"
+		],
+		"client": [
+			"yangyx30678.bread.BakeABreadClient"
 		],
 		"fabric-datagen": [
 			"yangyx30678.bread.BakeABreadDataGenerator"
