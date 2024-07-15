@@ -1,6 +1,6 @@
 {
 	"schemaVersion": 1,
-	"id": "bake-a-bread",
+	"id": "bakeabread",
 	"version": "${version}",
 	"name": "Bake a bread",
 	"description": "This is mod that allows you to bake a bread.",
