@@ -18,7 +18,7 @@ add a vanilla like baked bread
 ### Baked Bread 烤麵包
 * hunger : 7
 * saturation : 0.6
-* 
+
 ### Bread 麵包
 * hunger : 4
 * saturation : 0.6
