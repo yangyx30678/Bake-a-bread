@@ -1,10 +1,10 @@
-# Bake a bread 烤麵包
+# Bake a bread 烤麵包 [![Static Badge](https://img.shields.io/badge/CurseForge-yangyx30678-black?style=for-the-badge)](https://legacy.curseforge.com/minecraft/mc-mods/bake-a-bread)
+
+<img src="https://raw.githubusercontent.com/yangyx30678/Bake-a-bread/main/logo.gif" width="200" />
+
 新增具有原生感的烤麵包
 
 add a vanilla like baked bread
-
-[![Static Badge](https://img.shields.io/badge/CurseForge-yangyx30678-black?style=for-the-badge)](https://legacy.curseforge.com/minecraft/mc-mods/bake-a-bread)
-
 
 ## Features 特色
 * 支援熔爐 Supports smelting
