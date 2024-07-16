@@ -1,5 +1,7 @@
-# Bake a bread 烤麵包
+# Bake a bread 烤麵包 
+<img src="https://raw.githubusercontent.com/yangyx30678/Bake-a-bread/main/logo.gif" width="200" />
 新增具有原生感的烤麵包
+
 add a vanilla like baked bread
 
 ## Features 特色
@@ -11,3 +13,5 @@ add a vanilla like baked bread
 ## Effect 效果
 * hunger : 7
 * saturation : 0.6
+
+
