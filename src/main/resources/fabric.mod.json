@@ -3,16 +3,16 @@
 	"id": "bakeabread",
 	"version": "${version}",
 	"name": "Bake a bread",
-	"description": "This is mod that allows you to bake a bread.",
+	"description": "This mod simply adds a baked bread.",
 	"authors": [
-		"Me!"
+		"yangyx30678"
 	],
 	"contact": {
 		"homepage": "https://https://github.com/yangyx30678/Bake-a-bread",
 		"sources": "https://https://github.com/yangyx30678/Bake-a-bread"
 	},
-	"license": "CC0-1.0",
-	"icon": "assets/bake-a-bread/icon.png",
+	"license": "MIT",
+	"icon": "assets/bakeabread/textures/item/baked_bread.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
