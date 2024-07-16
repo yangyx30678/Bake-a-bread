@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "bakeabread:item/ruby"
+    "layer0": "bakeabread:item/baked_bread"
   }
 }

@@ -15,6 +15,6 @@ public class BakeABread implements ModInitializer {
 	public void onInitialize() {
 		LOGGER.info("Hello Fabric world!");
 		ModItems.registerModItems();
-		ModItemGroups.registerItemGroups();
+//		ModItemGroups.registerItemGroups();
 	}
 }

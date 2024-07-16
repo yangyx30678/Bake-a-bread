@@ -16,10 +16,6 @@ public class ModItemGroups {
             new Identifier(BakeABread.MOD_ID, "ruby"),
             FabricItemGroup.builder().displayName(Text.translatable("itemgroup.ruby"))
                     .icon(() -> new ItemStack(ModItems.BAKED_BREAD)).entries((displayContext, entries) -> {
-//                            entries.add(ModItems.RUBY);
-//                            entries.add(ModItems.RAW_RUBY);
-
-//                            entries.add(Items.DIAMOND);
                             entries.add(ModItems.BAKED_BREAD);
                     }).build());
 
